@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /trackers/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Allow: /
+Disallow: /includes/
+

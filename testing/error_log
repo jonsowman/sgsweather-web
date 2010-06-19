@@ -1,0 +1,848 @@
+[14-May-2008 17:05:36] PHP Warning:  require_once(includes/config.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/minifeed.php on line 3
+[14-May-2008 17:05:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/minifeed.php on line 3
+[14-May-2008 17:06:17] PHP Warning:  require_once(includes/config.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/minifeed.php on line 23
+[14-May-2008 17:06:17] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/minifeed.php on line 23
+[15-May-2008 12:04:55] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/jsowman/public_html/weather/testing/test.php on line 6
+[15-May-2008 12:12:32] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/test.php on line 18
+[15-May-2008 12:12:32] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/test.php on line 18
+[15-May-2008 12:24:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/jsowman/public_html/weather/testing/test.php on line 23
+[15-May-2008 12:42:56] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/testing/createtemp.php on line 21
+[15-May-2008 12:52:50] PHP Parse error:  syntax error, unexpected '*' in /home/jsowman/public_html/weather/testing/createtemp.php on line 51
+[15-May-2008 14:07:21] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:07:21] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:07:39] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:07:39] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:08:44] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:08:44] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:11:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/jsowman/public_html/weather/testing/windir.php on line 10
+[15-May-2008 14:11:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'wind_dir.gif' is not a valid JPEG file in /home/jsowman/public_html/weather/testing/windir.php on line 10
+[15-May-2008 14:11:28] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/windir.php on line 13
+[15-May-2008 14:11:28] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 16
+[15-May-2008 14:11:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/jsowman/public_html/weather/testing/windir.php on line 10
+[15-May-2008 14:11:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'wind_dir.gif' is not a valid JPEG file in /home/jsowman/public_html/weather/testing/windir.php on line 10
+[15-May-2008 14:11:28] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/windir.php on line 13
+[15-May-2008 14:11:28] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 16
+[15-May-2008 14:16:50] PHP Fatal error:  Call to undefined function  loadgif() in /home/jsowman/public_html/weather/testing/windir.php on line 18
+[15-May-2008 14:16:50] PHP Fatal error:  Call to undefined function  loadgif() in /home/jsowman/public_html/weather/testing/windir.php on line 18
+[15-May-2008 14:17:43] PHP Fatal error:  Call to undefined function  loadgif() in /home/jsowman/public_html/weather/testing/windir.php on line 20
+[15-May-2008 14:17:43] PHP Fatal error:  Call to undefined function  loadgif() in /home/jsowman/public_html/weather/testing/windir.php on line 20
+[15-May-2008 14:18:33] PHP Warning:  imagerotate() expects parameter 1 to be resource, null given in /home/jsowman/public_html/weather/testing/windir.php on line 13
+[15-May-2008 14:18:33] PHP Warning:  imagerotate() expects parameter 1 to be resource, null given in /home/jsowman/public_html/weather/testing/windir.php on line 13
+[15-May-2008 14:18:49] PHP Fatal error:  Call to undefined function  loadgif() in /home/jsowman/public_html/weather/testing/windir.php on line 26
+[15-May-2008 14:19:06] PHP Fatal error:  Call to undefined function  loadgif() in /home/jsowman/public_html/weather/testing/windir.php on line 21
+[15-May-2008 14:26:46] PHP Warning:  imagecreatefromjpeg(bilder/kompass_ohne.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/temp.php on line 9
+[15-May-2008 14:26:46] PHP Warning:  imagecreatefromjpeg(bilder/nadel_bleu.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/temp.php on line 10
+[15-May-2008 14:26:46] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/temp.php on line 12
+[15-May-2008 14:26:46] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 14
+[15-May-2008 14:26:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 15
+[15-May-2008 14:26:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 20
+[15-May-2008 14:26:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 21
+[15-May-2008 14:26:46] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 26
+[15-May-2008 14:26:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/temp.php:9) in /home/jsowman/public_html/weather/testing/temp.php on line 28
+[15-May-2008 14:26:46] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 31
+[15-May-2008 14:26:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 33
+[15-May-2008 14:26:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 34
+[17-May-2008 18:54:00] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 11
+[17-May-2008 18:54:00] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 19
+[17-May-2008 18:54:00] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 20
+[17-May-2008 18:54:00] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 25
+[17-May-2008 18:54:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/windir.php:11) in /home/jsowman/public_html/weather/testing/windir.php on line 27
+[17-May-2008 18:54:03] PHP Warning:  imagerotate() expects at least 3 parameters, 2 given in /home/jsowman/public_html/weather/testing/windir.php on line 11
+[17-May-2008 18:54:03] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 19
+[17-May-2008 18:54:03] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 20
+[17-May-2008 18:54:03] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/windir.php on line 25
+[17-May-2008 18:54:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/windir.php:11) in /home/jsowman/public_html/weather/testing/windir.php on line 27
+[22-May-2008 21:46:51] PHP Warning:  require_once(includes/config.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/index.php on line 3
+[22-May-2008 21:46:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/index.php on line 3
+[09-Jun-2008 15:32:17] PHP Warning:  require_once(includes/config.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 5
+[09-Jun-2008 15:32:17] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/new 2.php on line 5
+[09-Jun-2008 15:58:29] PHP Parse error:  syntax error, unexpected '[' in /home/jsowman/public_html/weather/testing/new 2.php on line 118
+[09-Jun-2008 15:58:58] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 15:58:58] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 15:58:58] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 15:58:58] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 15:58:58] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 15:58:58] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 15:58:58] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 15:58:58] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 15:58:58] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 15:58:58] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 15:58:58] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 15:58:58] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 15:58:58] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 161
+[09-Jun-2008 15:58:58] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 15:58:58] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 15:58:58] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 15:58:58] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 15:58:58] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 15:58:58] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 15:58:58] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 15:58:58] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 15:58:58] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 15:58:58] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 15:58:58] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 15:58:58] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 15:58:58] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 161
+[09-Jun-2008 15:59:29] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 15:59:29] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 15:59:29] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 15:59:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 15:59:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 15:59:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 15:59:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 15:59:29] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 15:59:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 15:59:29] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 15:59:29] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 15:59:29] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 15:59:29] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 15:59:30] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 15:59:30] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 15:59:30] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 15:59:30] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 15:59:30] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 15:59:30] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 15:59:30] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 15:59:30] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 15:59:30] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 15:59:30] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 15:59:30] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 15:59:30] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 15:59:30] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 15:59:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 15:59:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 15:59:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 15:59:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 15:59:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 15:59:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 15:59:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 15:59:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 15:59:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 15:59:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 15:59:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 15:59:37] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 15:59:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 15:59:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 15:59:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 15:59:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 15:59:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 15:59:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 15:59:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 15:59:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 15:59:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 15:59:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 15:59:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 15:59:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 15:59:37] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 15:59:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 16:00:32] PHP Parse error:  syntax error, unexpected T_STRING in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 16:00:33] PHP Parse error:  syntax error, unexpected T_STRING in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 16:00:47] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:00:47] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:00:47] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:00:47] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:00:47] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:00:47] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:00:47] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:00:47] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:00:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:00:47] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:00:47] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:00:47] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 16:00:47] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:00:48] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:00:48] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:00:48] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:00:48] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:00:48] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:00:48] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:00:48] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:00:48] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:00:48] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:00:48] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:00:48] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:00:48] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 156
+[09-Jun-2008 16:00:48] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:01:38] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:01:38] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:01:38] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:01:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:01:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:01:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:01:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:01:38] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:01:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:01:38] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:01:38] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:01:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 157
+[09-Jun-2008 16:01:39] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:01:39] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:01:39] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:01:39] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:01:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:01:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:01:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:01:39] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:01:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:01:39] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:01:39] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:01:39] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 157
+[09-Jun-2008 16:01:40] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:01:40] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:01:40] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:01:40] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:01:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:01:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:01:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:01:40] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:01:40] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:01:40] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:01:40] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:01:40] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 157
+[09-Jun-2008 16:01:40] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:01:40] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:01:40] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:01:40] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:01:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:01:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:01:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:01:40] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:01:40] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:01:40] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:01:40] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:01:40] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 157
+[09-Jun-2008 16:04:08] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:04:08] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:04:08] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:04:08] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:04:08] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:04:08] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:04:08] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:04:08] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:04:08] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:04:08] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:04:08] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:04:08] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:04:09] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:04:09] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:04:09] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:04:09] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:04:09] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:04:09] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:04:09] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:04:09] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:04:09] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:04:09] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:04:09] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:04:09] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:04:09] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:04:09] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:04:09] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:04:09] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:04:09] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:04:09] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:04:09] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:04:09] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:04:09] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:04:09] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:04:09] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:04:09] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:04:11] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:04:11] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:04:11] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:04:11] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:04:11] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:04:11] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:04:11] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:04:11] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:04:11] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:04:11] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:04:11] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:04:11] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:04:11] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:04:11] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:04:11] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:04:11] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:04:11] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:04:11] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:04:11] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:04:11] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:04:11] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:04:11] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:04:11] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:04:11] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:05:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/testing/new 2.php on line 166
+[09-Jun-2008 16:05:17] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/testing/new 2.php on line 166
+[09-Jun-2008 16:05:33] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:33] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:33] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:33] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:33] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:33] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:33] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:33] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:33] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:33] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:33] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:33] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:33] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:33] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:33] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:33] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:33] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:33] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:35] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:35] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:35] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:35] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:35] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:35] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:35] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:35] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:35] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:35] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:35] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:35] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:36] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:36] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:36] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:36] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:36] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:36] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:36] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:36] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:36] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:36] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:36] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:36] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:37] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:37] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:37] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:37] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:38] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:38] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:38] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:38] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:38] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:38] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:38] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:38] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:38] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:38] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:38] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:38] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:38] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:38] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:38] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:38] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:39] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:39] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:39] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:39] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:39] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:39] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:39] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:39] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:39] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:39] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:39] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:39] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:05:39] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:05:39] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:05:39] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:05:39] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:05:39] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:05:39] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:05:39] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:05:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/new 2.php:122) in /home/jsowman/public_html/weather/testing/new 2.php on line 155
+[09-Jun-2008 16:05:39] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 169
+[09-Jun-2008 16:06:19] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:19] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:19] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:19] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:19] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:19] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:19] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:19] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:06:19] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:19] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:19] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:19] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:19] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:19] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:19] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:19] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:19] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:19] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:06:19] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:19] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:20] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:20] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:20] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:20] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:20] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:20] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:20] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:20] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:20] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:20] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:20] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:06:20] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:20] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:20] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:20] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:20] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:20] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:20] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:20] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:20] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:20] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:20] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:20] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:20] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 152
+[09-Jun-2008 16:06:20] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:20] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:43] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:43] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:43] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:43] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:43] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:43] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:43] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:43] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:43] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:43] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:43] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:43] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:44] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:44] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:44] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:44] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:44] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:44] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:44] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:44] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:44] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:44] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:44] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:44] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:45] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:45] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:45] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:45] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:45] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:45] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:45] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:45] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:45] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:06:45] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:06:45] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:06:45] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:06:45] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:06:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:06:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:06:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:06:45] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:06:45] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:06:45] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:06:45] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 158
+[09-Jun-2008 16:06:45] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 159
+[09-Jun-2008 16:08:28] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:08:28] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:08:28] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:08:28] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:08:28] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:08:28] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:08:28] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:08:28] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:08:28] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:08:28] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:08:28] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:08:28] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:08:28] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:08:28] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:08:28] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:08:28] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:08:28] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:08:28] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:08:28] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:08:28] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:08:29] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:08:29] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:08:29] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:08:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:08:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:08:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:08:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:08:29] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:08:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:08:29] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:08:29] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:08:29] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:08:29] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:08:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:08:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:08:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:08:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:08:29] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:08:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:08:29] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:08:40] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:08:40] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:08:40] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:08:40] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:08:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:08:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:08:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:08:40] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:08:40] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:08:40] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:08:40] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:08:40] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:08:40] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:08:40] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:08:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:08:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:08:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:08:40] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:08:40] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:08:40] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:09:01] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:09:01] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:09:01] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:09:01] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:09:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:09:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:09:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:09:01] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:09:01] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:09:01] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:09:01] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:09:01] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:09:01] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:09:01] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:09:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:09:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:09:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:09:01] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:09:01] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:09:01] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:09:03] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:09:03] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:09:03] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:09:03] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:09:03] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:09:03] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:09:03] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:09:03] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:09:03] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:09:03] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:09:04] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:09:04] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:09:04] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:09:04] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:09:04] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:09:04] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:09:04] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:09:04] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:09:04] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:09:04] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:09:56] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:09:56] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 124
+[09-Jun-2008 16:09:56] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 126
+[09-Jun-2008 16:09:56] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:09:56] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 129
+[09-Jun-2008 16:09:56] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:09:56] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 135
+[09-Jun-2008 16:09:56] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 140
+[09-Jun-2008 16:09:56] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 143
+[09-Jun-2008 16:09:56] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 150
+[09-Jun-2008 16:10:18] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:10:18] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 124
+[09-Jun-2008 16:10:18] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 126
+[09-Jun-2008 16:10:18] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:10:18] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 129
+[09-Jun-2008 16:10:18] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:10:18] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 135
+[09-Jun-2008 16:10:18] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 140
+[09-Jun-2008 16:10:18] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 143
+[09-Jun-2008 16:10:18] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 150
+[09-Jun-2008 16:10:51] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:10:51] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:10:51] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:10:51] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:10:51] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:10:51] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:10:51] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:10:51] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:10:51] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:10:51] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:10:52] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 122
+[09-Jun-2008 16:10:52] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/new 2.php on line 123
+[09-Jun-2008 16:10:52] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/new 2.php on line 125
+[09-Jun-2008 16:10:52] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 127
+[09-Jun-2008 16:10:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 128
+[09-Jun-2008 16:10:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 133
+[09-Jun-2008 16:10:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 134
+[09-Jun-2008 16:10:52] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 139
+[09-Jun-2008 16:10:52] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 142
+[09-Jun-2008 16:10:52] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/new 2.php on line 149
+[09-Jun-2008 16:11:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/jsowman/public_html/weather/testing/new 2.php on line 164
+[09-Jun-2008 16:17:39] PHP Parse error:  syntax error, unexpected '<' in /home/jsowman/public_html/weather/testing/temp.php on line 4
+[09-Jun-2008 16:17:59] PHP Warning:  imagecreatefromgif(../images/.gif) [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/temp.php on line 91
+[09-Jun-2008 16:17:59] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 92
+[09-Jun-2008 16:20:40] PHP Warning:  imagecreatefromgif(../images/.gif) [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/temp.php on line 91
+[09-Jun-2008 16:20:40] PHP Warning:  imagegif(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/temp.php on line 92
+[13-Jul-2008 21:39:22] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'images/' for writing: Is a directory in /home/jsowman/public_html/weather/testing/dlbbc.php on line 33
+[13-Jul-2008 21:40:30] PHP Warning:  copy(Resource id #6) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/dlbbc.php on line 24
+[15-Jul-2008 08:56:45] PHP Warning:  imagecreatefrompng(coldfront1.png) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/pr_img1.php on line 35
+[15-Jul-2008 08:56:45] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/pr_img1.php on line 36
+[15-Jul-2008 08:56:45] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/pr_img1.php on line 43
+[15-Jul-2008 09:32:58] PHP Parse error:  syntax error, unexpected T_FOR in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:33:27] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:34:25] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:34:56] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:38:35] PHP Parse error:  syntax error, unexpected '(', expecting ';' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:38:36] PHP Parse error:  syntax error, unexpected '(', expecting ';' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:38:37] PHP Parse error:  syntax error, unexpected '(', expecting ';' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:38:37] PHP Parse error:  syntax error, unexpected '(', expecting ';' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:38:38] PHP Parse error:  syntax error, unexpected '(', expecting ';' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:39:01] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 204
+[15-Jul-2008 09:39:21] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 209
+[15-Jul-2008 09:40:57] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 209
+[15-Jul-2008 09:41:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/includes/functions.inc.php on line 216
+[15-Jul-2008 09:41:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/testing/test.php on line 8
+[15-Jul-2008 09:42:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/testing/test.php on line 8
+[15-Jul-2008 15:03:24] PHP Warning:  require_once(../includes/functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/test.php on line 5
+[15-Jul-2008 15:03:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../includes/functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/test.php on line 5
+[15-Jul-2008 15:04:05] PHP Warning:  require_once(../includes/functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/test.php on line 5
+[15-Jul-2008 15:04:05] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../includes/functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/test.php on line 5
+[17-Jul-2008 21:19:36] PHP Fatal error:  Call to undefined function  adjusttemp() in /home/jsowman/public_html/weather/testing/test temp.php on line 4
+[17-Jul-2008 21:20:47] PHP Warning:  require(config.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/test temp.php on line 3
+[17-Jul-2008 21:20:47] PHP Warning:  require(config.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/test temp.php on line 3
+[17-Jul-2008 21:20:47] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/test temp.php on line 3
+[17-Jul-2008 21:21:34] PHP Warning:  require(../incudes/config.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/test temp.php on line 3
+[17-Jul-2008 21:21:34] PHP Warning:  require(../incudes/config.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/test temp.php on line 3
+[17-Jul-2008 21:21:34] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../incudes/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/test temp.php on line 3
+[17-Jul-2008 21:30:10] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/_.php on line 8
+[17-Jul-2008 21:30:10] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/_.php on line 9
+[17-Jul-2008 21:30:10] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/_.php on line 11
+[17-Jul-2008 21:30:10] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 13
+[17-Jul-2008 21:30:10] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 14
+[17-Jul-2008 21:30:10] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 19
+[17-Jul-2008 21:30:10] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 20
+[17-Jul-2008 21:30:10] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 25
+[17-Jul-2008 21:30:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/_.php:8) in /home/jsowman/public_html/weather/testing/_.php on line 27
+[17-Jul-2008 21:30:10] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 29
+[17-Jul-2008 21:30:10] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 30
+[17-Jul-2008 21:30:10] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 31
+[17-Jul-2008 21:30:10] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 33
+[17-Jul-2008 21:30:10] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 34
+[17-Jul-2008 21:41:31] PHP Warning:  unlink(..\archive_maps ain_08071312.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 3
+[17-Jul-2008 21:41:31] PHP Warning:  unlink(..\archive_maps emperature_08071312.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 4
+[17-Jul-2008 21:41:31] PHP Warning:  unlink(..	esting ain_08071312.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 7
+[17-Jul-2008 21:41:31] PHP Warning:  unlink(..	esting emperature_08071312.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 8
+[17-Jul-2008 21:41:31] PHP Warning:  unlink(est.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 9
+[17-Jul-2008 21:42:31] PHP Warning:  unlink(..	esting\wind_08071312.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 5
+[17-Jul-2008 21:42:31] PHP Warning:  unlink(..	esting\pressure_08071312.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 6
+[17-Jul-2008 21:42:31] PHP Warning:  unlink(est.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 9
+[17-Jul-2008 21:42:46] PHP Warning:  imagecreatefromjpeg(windmid.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/_.php on line 8
+[17-Jul-2008 21:42:46] PHP Warning:  imagecreatefromjpeg(wind_dir.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/_.php on line 9
+[17-Jul-2008 21:42:46] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/jsowman/public_html/weather/testing/_.php on line 11
+[17-Jul-2008 21:42:46] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 13
+[17-Jul-2008 21:42:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 14
+[17-Jul-2008 21:42:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 19
+[17-Jul-2008 21:42:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 20
+[17-Jul-2008 21:42:46] PHP Warning:  imagecopy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 25
+[17-Jul-2008 21:42:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jsowman/public_html/weather/testing/_.php:8) in /home/jsowman/public_html/weather/testing/_.php on line 27
+[17-Jul-2008 21:42:46] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 29
+[17-Jul-2008 21:42:46] PHP Warning:  imagestring(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 30
+[17-Jul-2008 21:42:46] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 31
+[17-Jul-2008 21:42:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 33
+[17-Jul-2008 21:42:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/jsowman/public_html/weather/testing/_.php on line 34
+[21-Jul-2008 18:40:24] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 380
+[21-Jul-2008 18:40:24] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 381
+[21-Jul-2008 18:40:24] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 382
+[21-Jul-2008 18:40:24] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 383
+[21-Jul-2008 18:40:24] PHP Warning:  curl_exec(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 384
+[21-Jul-2008 18:40:24] PHP Warning:  curl_close(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 385
+[21-Jul-2008 18:40:24] PHP Fatal error:  Call to undefined method SMS::grab() in /home/jsowman/public_html/weather/testing/sms.php on line 9
+[21-Jul-2008 18:42:44] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 380
+[21-Jul-2008 18:42:44] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 381
+[21-Jul-2008 18:42:44] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 382
+[21-Jul-2008 18:42:44] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 383
+[21-Jul-2008 18:42:44] PHP Warning:  curl_exec(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 384
+[21-Jul-2008 18:42:44] PHP Warning:  curl_close(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 385
+[21-Jul-2008 18:42:45] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 380
+[21-Jul-2008 18:42:45] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 381
+[21-Jul-2008 18:42:45] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 382
+[21-Jul-2008 18:42:45] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 383
+[21-Jul-2008 18:42:45] PHP Warning:  curl_exec(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 384
+[21-Jul-2008 18:42:45] PHP Warning:  curl_close(): supplied argument is not a valid cURL handle resource in /home/jsowman/public_html/weather/includes/functions.inc.php on line 385
+[21-Jul-2008 18:52:48] PHP Warning:  Missing argument 1 for SMS::__construct(), called in /home/jsowman/public_html/weather/testing/sms.php on line 6 and defined in /home/jsowman/public_html/weather/includes/functions.inc.php on line 357
+[21-Jul-2008 18:52:48] PHP Warning:  Missing argument 2 for SMS::__construct(), called in /home/jsowman/public_html/weather/testing/sms.php on line 6 and defined in /home/jsowman/public_html/weather/includes/functions.inc.php on line 357
+[21-Jul-2008 19:09:47] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/includes/functions.inc.php on line 380
+[22-Jul-2008 12:04:55] PHP Warning:  include(../includes/functionsinc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 4
+[22-Jul-2008 12:04:55] PHP Warning:  include(../includes/functionsinc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/testing/d.php on line 4
+[22-Jul-2008 12:04:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../includes/functionsinc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/testing/d.php on line 4
+[22-Jul-2008 12:04:55] PHP Fatal error:  Call to undefined function  db_connect() in /home/jsowman/public_html/weather/testing/d.php on line 9

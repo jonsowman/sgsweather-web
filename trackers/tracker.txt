@@ -1,0 +1,5 @@
+Last hit was 62.18.44.156 (pippin.hexoc.com) at Saturday 19th of June 2010 06:56:15 PM
+(This is the pippin IP - this was a forwarded hit from pippin)
+The bitcheck WAS set. Unless you did this manually, this hit was from the weather station.
+
+:)

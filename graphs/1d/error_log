@@ -1,0 +1,526 @@
+[01-May-2008 21:05:59] PHP Warning:  include(../jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 3
+[01-May-2008 21:05:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../jpgraph/jpgraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 3
+[01-May-2008 21:05:59] PHP Warning:  include(../jpgraph/jpgraph_line.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 4
+[01-May-2008 21:05:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../jpgraph/jpgraph_line.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 4
+[01-May-2008 21:05:59] PHP Warning:  include(../jpgraph/jpgraph_date.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 5
+[01-May-2008 21:05:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../jpgraph/jpgraph_date.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 5
+[01-May-2008 21:05:59] PHP Warning:  include_once(../includes/config.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[01-May-2008 21:05:59] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../includes/config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[01-May-2008 21:05:59] PHP Warning:  include_once(../includes/functions.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 8
+[01-May-2008 21:05:59] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../includes/functions.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 8
+[01-May-2008 21:05:59] PHP Fatal error:  Call to undefined function  db_connect() in /home/jsowman/public_html/weather/graphs/1d/light.php on line 14
+[01-May-2008 21:06:01] PHP Warning:  include(../jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 3
+[01-May-2008 21:06:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../jpgraph/jpgraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 3
+[01-May-2008 21:06:01] PHP Warning:  include(../jpgraph/jpgraph_line.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 4
+[01-May-2008 21:06:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../jpgraph/jpgraph_line.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 4
+[01-May-2008 21:06:01] PHP Warning:  include(../jpgraph/jpgraph_date.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 5
+[01-May-2008 21:06:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../jpgraph/jpgraph_date.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 5
+[01-May-2008 21:06:01] PHP Warning:  include_once(../includes/config.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[01-May-2008 21:06:01] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../includes/config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[01-May-2008 21:06:01] PHP Warning:  include_once(../includes/functions.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 8
+[01-May-2008 21:06:01] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../includes/functions.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 8
+[01-May-2008 21:06:01] PHP Fatal error:  Call to undefined function  db_connect() in /home/jsowman/public_html/weather/graphs/1d/light.php on line 14
+[01-May-2008 21:10:07] PHP Fatal error:  Class 'Graph' not found in /home/jsowman/public_html/weather/graphs/1d/light.php on line 30
+[01-May-2008 21:10:09] PHP Fatal error:  Class 'Graph' not found in /home/jsowman/public_html/weather/graphs/1d/light.php on line 30
+[01-May-2008 21:10:47] PHP Fatal error:  Class 'Graph' not found in /home/jsowman/public_html/weather/graphs/1d/light.php on line 30
+[01-May-2008 21:10:49] PHP Fatal error:  Class 'Graph' not found in /home/jsowman/public_html/weather/graphs/1d/light.php on line 30
+[01-May-2008 21:11:54] PHP Fatal error:  Class 'Graph' not found in /home/jsowman/public_html/weather/graphs/1d/light.php on line 30
+[01-May-2008 21:11:55] PHP Fatal error:  Class 'Graph' not found in /home/jsowman/public_html/weather/graphs/1d/light.php on line 30
+[02-May-2008 17:56:51] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 13
+[02-May-2008 17:58:56] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 25
+[02-May-2008 18:10:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/select.php on line 29
+[02-May-2008 18:10:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/select.php on line 29
+[02-May-2008 18:12:08] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 27
+[02-May-2008 18:12:29] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 27
+[02-May-2008 18:12:48] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 27
+[02-May-2008 18:27:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/select.php on line 41
+[02-May-2008 18:43:31] PHP Parse error:  syntax error, unexpected T_LOGICAL_AND in /home/jsowman/public_html/weather/graphs/1d/select.php on line 50
+[02-May-2008 18:55:00] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 76
+[02-May-2008 18:59:19] PHP Fatal error:  Call to a member function Min() on a non-object in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 1334
+[02-May-2008 18:59:24] PHP Fatal error:  Call to a member function Min() on a non-object in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 1334
+[02-May-2008 18:59:42] PHP Fatal error:  Call to a member function Min() on a non-object in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 1334
+[02-May-2008 19:22:03] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select.php on line 108
+[02-May-2008 19:24:38] PHP Fatal error:  Call to a member function Min() on a non-object in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 1334
+[02-May-2008 19:27:29] PHP Fatal error:  Call to undefined method LinearScale::SetTimeAlign() in /home/jsowman/public_html/weather/graphs/1d/select.php on line 123
+[02-May-2008 19:28:14] PHP Fatal error:  Call to undefined method LinearScale::SetTimeAlign() in /home/jsowman/public_html/weather/graphs/1d/select.php on line 123
+[02-May-2008 20:55:02] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:55:40] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:55:42] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:56:42] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:57:59] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:58:42] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 66
+[02-May-2008 20:59:06] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 66
+[02-May-2008 20:59:13] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:59:13] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 20:59:14] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:00:05] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:00:49] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:01:11] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:03:13] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:03:40] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:04:27] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:04:29] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:04:53] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:31:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/select.php on line 71
+[02-May-2008 21:33:03] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:33:28] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:34:55] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:35:29] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 61
+[02-May-2008 21:35:58] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 62
+[02-May-2008 21:36:24] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 62
+[02-May-2008 21:36:25] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 62
+[02-May-2008 21:37:08] PHP Parse error:  syntax error, unexpected '=' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 62
+[02-May-2008 21:38:23] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_STRING or T_VARIABLE or '$' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 60
+[02-May-2008 21:39:08] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_STRING or T_VARIABLE or '$' in /home/jsowman/public_html/weather/graphs/1d/select.php on line 61
+[02-May-2008 21:41:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/select.php on line 102
+[02-May-2008 22:01:11] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select.php on line 161
+[02-May-2008 22:01:25] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select.php on line 161
+[02-May-2008 22:01:31] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select.php on line 161
+[02-May-2008 23:33:18] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/jsowman/public_html/weather/graphs/1d/select.php on line 21
+[02-May-2008 23:33:18] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/jsowman/public_html/weather/graphs/1d/select.php on line 22
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 90
+[03-May-2008 09:44:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 92
+[03-May-2008 09:53:52] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 176
+[03-May-2008 10:07:47] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 190
+[03-May-2008 10:08:34] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 190
+[03-May-2008 10:10:25] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 250
+[03-May-2008 10:19:11] PHP Fatal error:  Call to undefined method Graph::AddY1() in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 180
+[03-May-2008 10:22:43] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 185
+[03-May-2008 10:23:00] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 204
+[03-May-2008 10:23:14] PHP Fatal error:  Function name must be a string in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 198
+[03-May-2008 10:28:33] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 202
+[03-May-2008 10:45:18] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 123
+[03-May-2008 11:00:58] PHP Parse error:  syntax error, unexpected '*' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 302
+[03-May-2008 11:01:32] PHP Parse error:  syntax error, unexpected '*' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 302
+[03-May-2008 11:13:40] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 130
+[03-May-2008 11:17:13] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 136
+[03-May-2008 11:25:31] PHP Fatal error:  Call to undefined method LinearScale::SetTimeAlign() in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 129
+[03-May-2008 11:27:38] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 113
+[03-May-2008 11:27:57] PHP Fatal error:  Call to a member function SetTimeAlign() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 115
+[03-May-2008 11:28:41] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 113
+[03-May-2008 11:30:03] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 113
+[03-May-2008 11:40:58] PHP Parse error:  syntax error, unexpected T_IF in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 136
+[03-May-2008 14:14:13] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 135
+[03-May-2008 14:14:31] PHP Parse error:  syntax error, unexpected '}' in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 246
+[03-May-2008 14:14:50] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 248
+[03-May-2008 14:15:55] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 191
+[03-May-2008 14:15:56] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 191
+[03-May-2008 14:17:41] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 193
+[03-May-2008 14:17:42] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 193
+[03-May-2008 14:17:43] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 193
+[03-May-2008 14:17:44] PHP Fatal error:  Call to a member function SetTitle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 193
+[03-May-2008 14:29:24] PHP Fatal error:  Call to a member function SetType() on a non-object in /home/jsowman/public_html/weather/graphs/1d/select_all.php on line 130
+[03-May-2008 14:58:39] PHP Warning:  require_once(includes/config.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/select_helper.php on line 1
+[03-May-2008 14:58:39] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/select_helper.php on line 1
+[11-May-2008 17:39:39] PHP Fatal error:  Class 'RadarGraph' not found in /home/jsowman/public_html/weather/graphs/1d/winddir_2.php on line 28
+[11-May-2008 17:40:11] PHP Catchable fatal error:  Object of class RadarGraph could not be converted to string in /home/jsowman/public_html/weather/graphs/1d/winddir_2.php on line 39
+[11-May-2008 17:40:55] PHP Fatal error:  Call to a member function Min() on a non-object in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_radar.php on line 545
+[13-May-2008 08:51:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 25
+[13-May-2008 08:52:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 25
+[13-May-2008 08:52:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 25
+[13-May-2008 08:52:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 25
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:55:19] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 36
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[13-May-2008 08:56:37] PHP Warning:  Division by zero in /home/jsowman/public_html/weather/graphs/1d/windspd_MA.php on line 37
+[18-May-2008 21:38:06] PHP Warning:  include(../../includes/jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[18-May-2008 21:38:06] PHP Warning:  include(../../includes/jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[18-May-2008 21:38:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../includes/jpgraph/jpgraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[18-May-2008 21:38:06] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[18-May-2008 21:38:10] PHP Warning:  include(../../includes/jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[18-May-2008 21:38:10] PHP Warning:  include(../../includes/jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[18-May-2008 21:38:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../includes/jpgraph/jpgraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light.php on line 7
+[18-May-2008 21:38:10] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[08-Jul-2008 11:26:04] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/pressure.php on line 33
+[08-Jul-2008 11:26:07] PHP Fatal error:  Call to a member function SetLabelAngle() on a non-object in /home/jsowman/public_html/weather/graphs/1d/pressure.php on line 33
+[13-Jul-2008 14:56:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/jsowman/public_html/weather/includes/functions.inc.php on line 10
+[22-Sep-2008 21:13:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jsowman/public_html/weather/includes/config.inc.php on line 31
+[13-Jul-2009 21:45:42] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 940
+[13-Jul-2009 21:46:09] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 940
+[13-Jul-2009 21:46:37] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 940
+[13-Jul-2009 21:57:21] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 940
+[13-Jul-2009 21:57:22] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 940
+[13-Jul-2009 21:57:23] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 940
+[13-Jul-2009 22:09:26] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 973
+[13-Jul-2009 22:15:16] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 973
+[13-Jul-2009 22:15:18] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 973
+[13-Jul-2009 22:36:35] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 973
+[14-Jul-2009 09:42:38] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 973
+[14-Jul-2009 20:55:58] PHP Fatal error:  Class 'LogScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph.php on line 973
+[14-Jul-2009 20:58:41] PHP Warning:  include(../../includes/jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light2.php on line 7
+[14-Jul-2009 20:58:41] PHP Warning:  include(../../includes/jpgraph/jpgraph.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/graphs/1d/light2.php on line 7
+[14-Jul-2009 20:58:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../includes/jpgraph/jpgraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/graphs/1d/light2.php on line 7
+[14-Jul-2009 20:58:41] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[14-Jul-2009 20:58:43] PHP Fatal error:  Call to undefined method LinearScale::SetTimeAlign() in /home/jsowman/public_html/weather/graphs/1d/light2.php on line 43
+[14-Jul-2009 20:58:45] PHP Fatal error:  Call to undefined method LinearScale::SetTimeAlign() in /home/jsowman/public_html/weather/graphs/1d/light2.php on line 43
+[15-Jan-2010 20:08:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/jsowman/public_html/weather/includes/functions.inc.php on line 13

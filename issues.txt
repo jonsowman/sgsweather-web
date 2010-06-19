@@ -1,0 +1,8 @@
+Make PIC program have only one "connect" command
+Rearrange XPORT hostlist (kryten, sheeva, pippin)
+Fix the wind direction sensor and re-attach to the control box
+Fix wind speed sensor
+Change the dead DS18B20 that reads 85C all the time
+Sort out the rain sensor
+Replace the moisture sensor
+Get the search form to trawl through CSV archives

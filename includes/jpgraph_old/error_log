@@ -1,0 +1,8 @@
+[01-May-2008 21:10:47] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[01-May-2008 21:10:47] PHP Fatal error:  Class 'LinearScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_date.php on line 49
+[01-May-2008 21:10:48] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[01-May-2008 21:10:49] PHP Fatal error:  Class 'LinearScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_date.php on line 49
+[01-May-2008 21:11:54] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[01-May-2008 21:11:54] PHP Fatal error:  Class 'LinearScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_date.php on line 49
+[01-May-2008 21:11:55] PHP Fatal error:  Class 'Plot' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_line.php on line 24
+[01-May-2008 21:11:55] PHP Fatal error:  Class 'LinearScale' not found in /home/jsowman/public_html/weather/includes/jpgraph/jpgraph_date.php on line 49

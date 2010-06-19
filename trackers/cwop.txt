@@ -1,0 +1,5 @@
+Conn failed
+
+APRS string follows
+DW1367>APRS,TCPXX*,qAX,CWOP-2:!5122.00N/00011.26W_219/000g...t037b10197pic
+

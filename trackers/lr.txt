@@ -1,0 +1,5 @@
+The last database record addition rejected was from 131.111.129.51 on May 19, 2010, 19:16.
+
+The following variables failed:
+
+Temp: 85

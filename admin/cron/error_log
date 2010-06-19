@@ -1,0 +1,4 @@
+[02-May-2008 23:10:50] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/jsowman/public_html/weather/admin/cron/maint1.php on line 96
+[02-May-2008 23:11:31] PHP Warning:  require(/home/jsowman/public_html/weather/includes/Mail.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/jsowman/public_html/weather/admin/cron/maint1.php on line 17
+[02-May-2008 23:11:31] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/jsowman/public_html/weather/includes/Mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/jsowman/php') in /home/jsowman/public_html/weather/admin/cron/maint1.php on line 17
+[14-Jul-2008 15:01:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/jsowman/public_html/weather/admin/cron/dlbbc.php on line 17

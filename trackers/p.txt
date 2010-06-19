@@ -1,0 +1,15 @@
+FW_START
+
+Last read sent time vars
+
+Seconds: 3
+Minutes: 0
+Hours: 0
+DOW: 1
+Day: 118
+
+Pressure: 3259
+
+Light ADC Read: 374
+
+FW_END
