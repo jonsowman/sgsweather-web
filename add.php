@@ -10,14 +10,7 @@ BEFORE YOU CHANGE ANYTHING TOO MUCH
 BACKUPS ARE GENERALLY A GOOD PLAN
 */
 
-//header("Time: " . date("H/i/s"));
-
-// http://weather.hexoc.com/add.php?bc=1&pwd=weathercat2&t=300&ws=14&wd=123&l=10&m=13&p=1000&b=500&h=128&t2=346&r=1
-// SAMPLE QUERY
-// USE FOR TESTING ONLY
-
 // SETUP INCLUDES AND DEFINE VARIABLES
-
 define("IN_MODULE",true);
 require_once("includes/config.inc.php");
 require_once("includes/functions.inc.php");
