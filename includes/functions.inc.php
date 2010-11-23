@@ -10,7 +10,7 @@ die("Direct Call Disabled.");
 function db_connect() {
 define("IN_MODULE",true);
 require("config.inc.php");
-mysql_connect(localhost,$username,$db_password) or die("Could not connect to database<br>" . $username . mysql_error());
+mysql_connect($db_host,$username,$db_password) or die("Could not connect to database<br>" . $username . mysql_error());
 @mysql_select_db($database) or die("Unable to select database<br>". mysql_error());
 }
 

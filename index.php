@@ -11,11 +11,15 @@ define("IN_MODULE",true); // why did you call it this? weirdo.
 require_once("includes/config.inc.php");
 require_once("includes/functions.inc.php");
 
-
 db_connect();
 $query = "SELECT * FROM records ORDER BY `uts` DESC LIMIT 1";
 $result = mysql_query($query) or die("Query failed with error: " . mysql_error());
-$row = mysql_fetch_array($result) or die(mysql_error());
+if ( mysql_num_rows($result) > 0 ) {
+    $row = mysql_fetch_array($result)
+        or die("Couldn't get data: ".mysql_error());
+} else {
+    $isdata == false;
+}
 db_disconnect();
 
 ?>
@@ -103,8 +107,11 @@ td { padding:2px; }
 
 $uts_now = time();
 $last_read = $row['uts'];
-	if ($last_read == 0 ) { 
-	$edbmsg = "<h2>The database is empty :(</h2><br><br>This would indicate the station has been offline for two months or more. Hopefully it'll be back soon.<br><br><b>Last status: " . stripslashes($c_status) . "</b><br><br>If you are an admin, please click <a href='/admin'>here</a> for adminy things.";
+if ($last_read == 0 || !$isdata ) { 
+    $edbmsg = "<h2>The database is empty :(</h2><br><br>" . 
+        "This would indicate the station has been offline for two months or more. Hopefully it'll be back soon.<br><br><b>Last status: " . 
+    stripslashes($c_status) . 
+    "</b><br><br>If you are an admin, please click <a href='/admin'>here</a> for     admin-y things.";
 } else {
 	$isdata = true;
 }
@@ -300,7 +307,7 @@ if($isdata) {
 
 } else {
 
-// if we got to here, the db is empty. sad smiley.
+// if we got to here, the db is empty. sad panda.
 
 	echo $edbmsg;
 

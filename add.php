@@ -179,7 +179,7 @@ header("Zone: D");   // send new header
 
 if($sms_on_update) {
 	$msgstr = "The station successfully completed an update at " . date("G:i") . ".";
-	$newsms = new SMS("447729366996",$msgstr,false);
+	$newsms = new SMS($c_sms_number,$msgstr,false);
 	$newsms->send();
 	
 	$params = array();
